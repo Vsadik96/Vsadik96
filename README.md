@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vsadik96
-- 👀 I’m interested in empreneur, freelancing and electronic music, UX/UI, design
+- 👀 I’m interested in entrepreneur, freelancing and electronic music, UX/UI, design
 - 🌱 I’m currently learning python and Angular
-- 💞️ I’m looking to collaborate on design projects, UX/UI
+- 💞️ I’m looking to collaborate on design projects, UX/UI, Angular or React projects,
 - 📫 How to reach me valeria.delarubia@civica-soft.com
 
 <!---
